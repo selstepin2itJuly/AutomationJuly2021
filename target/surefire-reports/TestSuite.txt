@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 53.22 s <<< FAILURE! - in TestSuite
+testcases.DashboardMyInfo.Get_Dashboard_QuickLaunchitems_004  Time elapsed: 0.513 s  <<< FAILURE!
+java.lang.AssertionError: Lists differ at element [1]: Leave Lists != Leave List expected [Leave Lists] but found [Leave List]
+	at testcases.DashboardMyInfo.Get_Dashboard_QuickLaunchitems_004(DashboardMyInfo.java:49)
+
